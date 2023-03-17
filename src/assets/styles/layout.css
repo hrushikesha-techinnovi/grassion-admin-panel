@@ -1,0 +1,22 @@
+main {
+  background-color: var(--body-bg);
+}
+
+.pageWrapper {
+  width: 100%;
+  height: 100vh;
+}
+
+.contentArea {
+  min-width: calc(100% - 250px);
+  min-height: 100vh;
+  flex-grow: 1;
+  margin-left: 250px;
+}
+
+.wrapper {
+  min-height: 100vh;
+  background-color: #e6eef7;
+}
+
+  
