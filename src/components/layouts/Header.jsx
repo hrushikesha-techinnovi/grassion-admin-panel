@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaUser } from "react-icons/fa"
-import "../assets/styles/header.css"
+import "../../assets/styles/header.css"
 
 const Header = () => {
   return (

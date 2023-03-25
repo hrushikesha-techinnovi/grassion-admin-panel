@@ -1,6 +1,6 @@
 import './App.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Layout from './components/Layout'
+import Layout from './components/layouts/Layout'
 import Login from './pages/Login'
 import AddTip from './pages/tips/AddTip'
 import TipList from './pages/tips/TipList'
